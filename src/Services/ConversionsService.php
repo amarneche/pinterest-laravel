@@ -5,7 +5,6 @@ namespace Pinterest\Services;
 use Pinterest\Client\PinterestClient;
 use Pinterest\Services\Concerns\HasPagination;
 use Pinterest\Support\ApiResponse;
-use Pinterest\Support\PaginatedResponse;
 
 /**
  * Service for interacting with the Pinterest Conversions API.
